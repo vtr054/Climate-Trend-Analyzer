@@ -42,7 +42,7 @@ The project follows a modular architecture for scalability and clean code standa
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/climate-trend-analyzer.git
+   git clone https://github.com/vtr054/climate-trend-analyzer.git
    cd climate-trend-analyzer
    ```
 
